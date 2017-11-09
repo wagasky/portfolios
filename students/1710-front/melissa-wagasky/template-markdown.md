@@ -253,7 +253,7 @@ In ToDoBox, Alex and I took an existing code base, refactored it to have complet
 * Collaboration - Proficient  
 
 # D: Professional Skills
-(Intro)
+This mod I participated in a variety of gear up sessions. I really enjoy these and am grateful they are part of our curriculum here. They facilitated some of the most interesting and meaningful conversations I've had so far at Turing.
 
 #Gear Up
 #### Growth Mindset
