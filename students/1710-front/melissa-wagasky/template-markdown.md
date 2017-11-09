@@ -1,4 +1,4 @@
-# Melissa Wagasky- M1 Portfolio
+# Melissa Wagasky - M1 Portfolio
 
 # Areas of Emphasis
 
